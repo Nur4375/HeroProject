@@ -1,0 +1,25 @@
+*{
+   margin: 2px;
+   background-color: rgba(208, 219, 211, 0.884);
+}
+.webtex{
+   text-align:justify;
+   background-color: aliceblue;
+}
+.webtex2{
+   text-align: justify;
+   text-decoration: solid;
+   background-color: aliceblue;
+}
+img{
+   height: 300px;
+   width: fit-content;
+}
+h1{
+   text-decoration: wavy;
+   background-color: beige;
+}
+h2{
+   text-decoration: solid;
+   background-color: beige;
+}
